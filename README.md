@@ -24,7 +24,7 @@ Na raiz do projeto, execute:
    yarn dev
    ```
 
-O front-end estará rodando no endereço http://localhost:3000.<br>
+O front-end estará rodando no endereço http://localhost:3000/home.<br>
 
 ## 📃 Descrição do Projeto:
 A aplicação desenvolvida tem a seguinte estrutura:
